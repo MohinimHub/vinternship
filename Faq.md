@@ -191,6 +191,8 @@ The offer letter for the AKSians (NPTEL) cohort will be issued after the candida
 
 Note that the offer letters are only for the AKSians cohort. Announcements regarding offer letters will be made soon.
 
+**5.5 When will AKSians (NPTEL) cohort receive their certificate of completion?**    
+The certificate of completion for the AKSians (NPTEL) cohort will be issued after the candidate successfully completes all phases of the internship provided the candidate is registered for examination in one of Prof. Sudarshan Iyengar's NPTEL course.
 
 ---
 
