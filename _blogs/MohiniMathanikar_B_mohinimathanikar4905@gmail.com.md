@@ -76,7 +76,8 @@ Among many things I like about the Vinternship, one is how it encourages engagem
 
 All of this represents holistic learning—the idea that growth is not just about gaining technical skills, but about building the character of a professional. By developing confidence, communication, and a sense of community, I am learning to be a well-rounded expert rather than just someone who can type code.
 
-This Vinternship is teaching me lessons that go beyond just technical skills. Through this journey, I am learning: * To trust the process instead of rushing for results.
+This Vinternship is teaching me lessons that go beyond just technical skills. Through this journey, I am learning: 
+* To trust the process instead of rushing for results.
 * That confusion isn't failure—it is a necessary part of growth.
 * How community and collaboration make growth possible, even in a virtual space.
 * The true value of mentors who guide and support us every step of the way.
