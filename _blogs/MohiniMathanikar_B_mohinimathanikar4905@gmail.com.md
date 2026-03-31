@@ -22,7 +22,7 @@ It wasn’t. It was genuine, and it arrived at the perfect time for me.
 
 
 
-###### My shift from ranks to results
+#### My shift from ranks to results
 
 The journey began with MERN stack training on the ViBe platform.
 
@@ -40,7 +40,7 @@ I completed the ViBe course comfortably within the timeline, giving me space to 
 
 
 
-###### Every error is a lesson
+#### Every error is a lesson
 
 The case studies are like real-world practice. Instead of just watching, I am finally the one breaking down problems and building solutions myself.
 
@@ -54,7 +54,7 @@ Along with every case study, there is a detailed walkthrough that helps me stay 
 
 
 
-###### Doing a little bit every day
+#### Doing a little bit every day
 
 Managing all this alongside college coursework, practicals, exams, and interviews is challenging. Balancing Vinternship with academics is teaching me valuable lessons in time management and resilience.
 
@@ -68,7 +68,7 @@ It isn’t about perfection — it’s about showing up, again and again, until 
 
 
 
-###### Sharing the struggle, sharing the growth
+#### Sharing the struggle, sharing the growth
 
 What helps is knowing I’m not alone. This internship connects me with peers facing the same doubts, and that shared struggle turns into shared growth. I solve others’ problems whenever I can, and in turn, fellow interns help me with mine.
 
@@ -82,7 +82,7 @@ Because many of us have the same doubts, one person's question often makes thing
 
 
 
-###### Helping others helps me grow
+#### Helping others helps me grow
 
 Becoming a volunteer is another highlight of my journey.
 
@@ -98,7 +98,7 @@ My contributions are steady and supportive, and I try to stay available for peer
 
 
 
-###### Visiting the wrong breakout room
+#### Visiting the wrong breakout room
 
 When I first joined, even though I wasn’t new to Discord, I was still exploring the channels. Out of curiosity, I mistakenly joined a mentors’ breakout session and was promptly removed!
 
@@ -112,7 +112,7 @@ It serves as a reminder that these little mix-ups are just part of the experienc
 
 
 
-###### More than just writing code
+#### More than just writing code
 
 Among many things I like about the Vinternship, one is how it encourages engagement through activities like writing blogs, posting on LinkedIn, documenting through vlogs, and even creating Gen AI images to depict our experiences. These activities push us to connect, express ourselves, and learn from each other.
 
@@ -133,7 +133,7 @@ This Vinternship is teaching me lessons that go beyond just technical skills. Th
 
 
 
-###### A heart full of gratitude
+#### A heart full of gratitude
 
 I am deeply thankful to everyone who has supported me and made this opportunity possible. My sincere gratitude goes to Vicharanashala (Lab for Education Design), ANNAM.AI , the Indian Institute of Technology, Ropar, and NPTEL for giving me the chance to be a part of this program.
 
@@ -149,7 +149,7 @@ I would also like to extend a special thanks to Nandan Prabhudesai Sir and Riya 
 
 
 
-###### Looking forward
+#### Looking forward
 
 I am excited about the weeks ahead — more case studies, deeper discussions, endorsements, upcoming projects, and those small but powerful moments of clarity. With the knowledge and experience I gain, I grow more confident in facing new challenges.
 
@@ -164,8 +164,4 @@ I will keep learning, improving, and striving each day to be better.
 Author: \[Mohini Mathanikar](www.linkedin.com/in/mohini-m2025){:target="\_blank"}
 
 LinkedIn Article: \[Read on LinkedIn](https://www.linkedin.com/pulse/vinternship-blueprint-growth-mohini-mathanikar-cz2pf){:target="\_blank"}
-
-
-
-
 
