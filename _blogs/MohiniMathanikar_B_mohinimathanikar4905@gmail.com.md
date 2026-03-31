@@ -1,8 +1,8 @@
-\---
+---
 title: "Vinternship: A Blueprint for Growth"
 author: Mohini Mathanikar
 vinternship\_id: mohinimathanikar4905@gmail.com
-\---
+---
 When I searched for internship opportunities, I often felt discouraged. I saw seniors beginning their internships at the very stage where I was then, yet I couldn’t find any chance for myself.
 Then came an email from Vinternship at VLED Labs, IIT Ropar— exactly what I had been waiting for. I suddenly felt a rush of excitement; it felt like something bigger, a chance to truly experience learning instead of just watching it. But at the same time, I was hesitant. I wondered if this was a real internship or just another scheme where you have to pay for experience.
 It wasn’t. It was genuine, and it arrived at the perfect time for me.
